@@ -9,7 +9,7 @@ import pickle
 app = Flask(__name__)
 
 # Google Drive file links
-compressed_model_file_id = "YOUR_COMPRESSED_MODEL_FILE_ID"
+compressed_model_file_id = "1aTasO_fXRXqMbIM-NRV2MqedSwkW9h35"
 features_file_id = "1bAglZ4Mbsu5G2wbzQOpUi2vXKg_6zpPE"
 
 # Local paths
