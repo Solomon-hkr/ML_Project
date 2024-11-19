@@ -1,0 +1,2 @@
+model_training/cybersecurity_large_synthesized_data.csv filter=lfs diff=lfs merge=lfs -text
+web_integration/backend/model/model.pkl filter=lfs diff=lfs merge=lfs -text
