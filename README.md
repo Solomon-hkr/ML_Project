@@ -85,7 +85,7 @@ ML_Project/
 ## Setup Instructions
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ML_Project.git
+   git clone https://github.com/Solomon-hkr/ML_Project.git
    cd ML_Project
    ```
 
